@@ -1,6 +1,6 @@
 # CNN-Multiclass-Classification
 
-Classifying images of handwritten digits using Convolutional Neural Networks. The dataset used is the [MNIST dataset](https://en.wikipedia.org/wiki/MNIST_database).
+Classifying images of handwritten digits using Convolutional Neural Networks (CNNs). The dataset used is the [MNIST dataset](https://en.wikipedia.org/wiki/MNIST_database).
 
 The notebook is broken into the following sections:
 1. Loading MNIST 
