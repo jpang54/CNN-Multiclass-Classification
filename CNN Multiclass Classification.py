@@ -1,5 +1,5 @@
 """
-# Multiclass Classification of Images using Convolutional Neutral Networks 
+# Multiclass Classification of Images using Convolutional Neural Networks 
 
 Classifying images of handwritten digits using CNNs. The dataset used is the [MNIST dataset](https://en.wikipedia.org/wiki/MNIST_database).
 
